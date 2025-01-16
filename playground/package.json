@@ -1,1 +1,11 @@
-
+{
+  "name": "Lenka_Intro2",
+  "version": "1.0.0",
+  "dependecies": {},
+  "skripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  }
+  "author": "Lenka"
+}
